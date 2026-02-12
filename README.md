@@ -103,5 +103,4 @@ Remove-Item -Recurse -Force .\frontend\node_modules
 
 - `.env` **не коммитим**  
 - используем `.env.example` как шаблон
-
 ```
